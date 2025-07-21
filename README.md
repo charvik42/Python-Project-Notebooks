@@ -1,4 +1,4 @@
-# Python Project Notebooks 📓
+# Python Project Notebooks
 
 This repository contains a collection of beginner-to-intermediate level Python projects focused on data scraping and API usage. Each Jupyter Notebook explores a specific topic, making use of libraries like `requests`, `BeautifulSoup`, and `pandas`.
 
